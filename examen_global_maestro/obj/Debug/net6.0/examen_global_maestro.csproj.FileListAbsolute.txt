@@ -1,0 +1,15 @@
+C:\Users\abela\source\repos\examen_global_maestro\examen_global_maestro\bin\Debug\net6.0\examen_global_maestro.exe
+C:\Users\abela\source\repos\examen_global_maestro\examen_global_maestro\bin\Debug\net6.0\examen_global_maestro.deps.json
+C:\Users\abela\source\repos\examen_global_maestro\examen_global_maestro\bin\Debug\net6.0\examen_global_maestro.runtimeconfig.json
+C:\Users\abela\source\repos\examen_global_maestro\examen_global_maestro\bin\Debug\net6.0\examen_global_maestro.dll
+C:\Users\abela\source\repos\examen_global_maestro\examen_global_maestro\bin\Debug\net6.0\examen_global_maestro.pdb
+C:\Users\abela\source\repos\examen_global_maestro\examen_global_maestro\obj\Debug\net6.0\examen_global_maestro.csproj.AssemblyReference.cache
+C:\Users\abela\source\repos\examen_global_maestro\examen_global_maestro\obj\Debug\net6.0\examen_global_maestro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abela\source\repos\examen_global_maestro\examen_global_maestro\obj\Debug\net6.0\examen_global_maestro.AssemblyInfoInputs.cache
+C:\Users\abela\source\repos\examen_global_maestro\examen_global_maestro\obj\Debug\net6.0\examen_global_maestro.AssemblyInfo.cs
+C:\Users\abela\source\repos\examen_global_maestro\examen_global_maestro\obj\Debug\net6.0\examen_global_maestro.csproj.CoreCompileInputs.cache
+C:\Users\abela\source\repos\examen_global_maestro\examen_global_maestro\obj\Debug\net6.0\examen_global_maestro.dll
+C:\Users\abela\source\repos\examen_global_maestro\examen_global_maestro\obj\Debug\net6.0\refint\examen_global_maestro.dll
+C:\Users\abela\source\repos\examen_global_maestro\examen_global_maestro\obj\Debug\net6.0\examen_global_maestro.pdb
+C:\Users\abela\source\repos\examen_global_maestro\examen_global_maestro\obj\Debug\net6.0\examen_global_maestro.genruntimeconfig.cache
+C:\Users\abela\source\repos\examen_global_maestro\examen_global_maestro\obj\Debug\net6.0\ref\examen_global_maestro.dll
